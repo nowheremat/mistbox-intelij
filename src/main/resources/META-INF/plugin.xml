@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>com.yourname.mistbox</id>
+
+    <name>Mistbox</name>
+
+    <vendor url="https://github.com/yourname/mistbox">Your Name</vendor>
+
+    <description><![CDATA[
+      A muted, pastel-on-slate dark theme built for the Islands (New UI).
+      Cool near-black background with periwinkle keywords, mint types, soft green strings and steel-blue functions.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+        <themeProvider
+                id="com.github.yourname.mistbox.dark.islands"
+                path="themes/mistbox/mistbox.json"
+                targetUi="islands"
+        />
+
+    </extensions>
+
+</idea-plugin>
