@@ -1368,12 +1368,7 @@
         <option name="FOREGROUND" value="CDCFD1" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY">
-      <value>
-        <option name="FOREGROUND" value="9DB6C0" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="9DCFC3" />
@@ -2077,11 +2072,7 @@
         <option name="FOREGROUND" value="A5D29A" />
       </value>
     </option>
-    <option name="YAML_SCALAR_KEY">
-      <value>
-        <option name="FOREGROUND" value="9DB6C0" />
-      </value>
-    </option>
+    <option name="YAML_SCALAR_KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="YAML_SCALAR_LIST">
       <value>
         <option name="FOREGROUND" value="A5D29A" />
