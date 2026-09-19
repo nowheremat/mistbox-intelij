@@ -2,7 +2,7 @@
 <!-- Plugin description -->
 ## Description
 
-**Mistbox** is a muted, pastel-on-slate dark theme for IntelliJ-based IDEs, built for the modern **Islands (New UI)** aesthetic.
+**Mistbox** is a pair of muted, easy-on-the-eyes themes (**Dark Mistbox** and **Light Mistbox**) for IntelliJ-based IDEs, built for the modern **Islands (New UI)** aesthetic.
 
 Its palette was sampled from a Zed + Ghostty setup: a cool near-black background, neutral grey text and comments, periwinkle keywords, mint types, soft green strings and pale steel-blue functions.
 
@@ -10,7 +10,8 @@ Its palette was sampled from a Zed + Ghostty setup: a cool near-black background
 
 | Theme Variant | Status |
 | :--- | :--- |
-| **Mistbox** | ✅ **Available** |
+| **Dark Mistbox** | ✅ **Available** |
+| **Light Mistbox** | ✅ **Available** |
 
 ### Features
 
@@ -28,7 +29,7 @@ A dedicated editor color scheme covers Java, Kotlin, Go, Python, JavaScript, Rus
 1. Open **Settings/Preferences** in your IDE.
 2. Navigate to **Plugins**, click the gear icon and choose **Install Plugin from Disk...**
 3. Pick the zip from `build/distributions/` (see *Development* below).
-4. Go to **Appearance & Behavior** > **Appearance** and select **Mistbox** from the Theme dropdown.
+4. Go to **Appearance & Behavior** > **Appearance** and select **Dark Mistbox** or **Light Mistbox** from the Theme dropdown.
 
 ### Development
 
@@ -38,8 +39,8 @@ A dedicated editor color scheme covers Java, Kotlin, Go, Python, JavaScript, Rus
 ./gradlew verifyPlugin  # runs the plugin verifier
 ```
 
-Colors live in two places: the `colors` block of `themes/mistbox/mistbox.json` (UI) and
-`mistbox.xml` (editor). `palette-dark.csv` lists every named UI color.
+Colors live in two places: the `colors` block of `themes/mistbox-<variant>/mistbox-<variant>.json` (UI) and
+`mistbox-<variant>.xml` (editor). `palette-dark.csv` lists every named UI color.
 
 ### Palette notes
 
@@ -56,10 +57,6 @@ The main colors were measured from a compressed screenshot, so treat them as clo
 | Constants | `#9ECCB6` |
 | Functions | `#9DB6C0` |
 | Numbers | `#DE9A85` (estimated) |
-
-### Before publishing
-
-Replace the placeholders `Your Name` / `yourname` in `plugin.xml`, `gradle.properties` and the theme JSON.
 
 ### Acknowledgments
 

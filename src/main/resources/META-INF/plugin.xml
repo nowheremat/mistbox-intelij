@@ -1,13 +1,14 @@
 <idea-plugin>
-    <id>com.yourname.mistbox</id>
+    <id>com.nowheremat.mistbox</id>
 
     <name>Mistbox</name>
 
-    <vendor url="https://github.com/yourname/mistbox">Your Name</vendor>
+    <vendor url="https://github.com/nowheremat/mistbox">Matías Cordón</vendor>
 
     <description><![CDATA[
-      A muted, pastel-on-slate dark theme built for the Islands (New UI).
-      Cool near-black background with periwinkle keywords, mint types, soft green strings and steel-blue functions.
+      Dark Mistbox and Light Mistbox: muted, easy-on-the-eyes themes built for the Islands (New UI).
+      Periwinkle keywords, turquoise types, soft green strings, light-blue functions and pink annotations,
+      on a cool near-black (dark) or soft white (light) background.
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
@@ -15,8 +16,14 @@
     <extensions defaultExtensionNs="com.intellij">
 
         <themeProvider
-                id="com.github.yourname.mistbox.dark.islands"
-                path="themes/mistbox/mistbox.json"
+                id="com.github.nowheremat.mistbox.dark.islands"
+                path="themes/mistbox-dark/mistbox-dark.json"
+                targetUi="islands"
+        />
+
+        <themeProvider
+                id="com.github.nowheremat.mistbox.light.islands"
+                path="themes/mistbox-light/mistbox-light.json"
                 targetUi="islands"
         />
 
