@@ -257,7 +257,7 @@
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
@@ -672,12 +672,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -694,7 +694,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -758,7 +758,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -911,7 +911,7 @@
     </option>
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="GO_BUILTIN_VARIABLE">
@@ -921,12 +921,12 @@
     </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="GO_KEYWORD">
@@ -942,12 +942,12 @@
     </option>
     <option name="GO_LOCAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
@@ -1222,7 +1222,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -1328,7 +1328,7 @@
     </option>
     <option name="OC.METHOD_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="OC.NUMBER">
@@ -1511,7 +1511,7 @@
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="PY.IMPORTS">
@@ -1743,7 +1743,7 @@
     </option>
     <option name="RUBY_METHOD_NAME">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="RUBY_NUMBER">
@@ -1814,7 +1814,7 @@
     </option>
     <option name="SASS_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="2E75B8" />
+        <option name="FOREGROUND" value="1B6CA8" />
       </value>
     </option>
     <option name="SASS_IDENTIFIER">
