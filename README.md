@@ -60,7 +60,7 @@ The main colors were measured from a compressed screenshot, so treat them as clo
 
 ### Acknowledgments
 
-The project layout and theme-key coverage follow [gruvbox-material-island-theme](https://github.com/nowheremat/gruvbox-material-island-theme) (MIT), which itself credits the [Armada Core Themes](https://plugins.jetbrains.com/plugin/26844-armada-core-themes) plugin.
+The project layout and theme-key coverage follow [gruvbox-material-island-theme](https://github.com/nowheremat/gruvbox-material-island-theme) (MIT)
 
 ***This plugin is not affiliated with or endorsed by JetBrains.***
 

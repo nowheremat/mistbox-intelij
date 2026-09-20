@@ -70,7 +70,7 @@
     </option>
     <option name="BLOCK_TERMINAL_BLUE">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="BLOCK_TERMINAL_BLUE_BRIGHT">
@@ -155,7 +155,7 @@
     </option>
     <option name="BUILDOUT.KEY">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
@@ -292,7 +292,7 @@
     </option>
     <option name="COFFEESCRIPT.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
@@ -389,7 +389,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
@@ -506,7 +506,7 @@
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -570,7 +570,7 @@
     </option>
     <option name="Clojure Atom">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="Clojure Character">
@@ -705,7 +705,7 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -752,7 +752,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="7561BE" />
+        <option name="FOREGROUND" value="8B5CC8" />
         <option name="BACKGROUND" value="F8F9FB" />
       </value>
     </option>
@@ -805,7 +805,7 @@
     </option>
     <option name="DJANGO_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="DJANGO_NUMBER">
@@ -820,7 +820,7 @@
     </option>
     <option name="DJANGO_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="DJANGO_TAG_START_END">
@@ -870,7 +870,7 @@
     </option>
     <option name="GHERKIN_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
@@ -895,7 +895,7 @@
     </option>
     <option name="GHERKIN_TABLE_PIPE">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="GHERKIN_TAG">
@@ -931,7 +931,7 @@
     </option>
     <option name="GO_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="GO_LINE_COMMENT">
@@ -972,7 +972,7 @@
     </option>
     <option name="GQL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="GQL_STRING_LITERAL">
@@ -982,7 +982,7 @@
     </option>
     <option name="HAML_CLASS">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="HAML_COMMENT">
@@ -995,7 +995,7 @@
     <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="HAML_PARENTHS">
@@ -1022,7 +1022,7 @@
     </option>
     <option name="HAML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="HAML_TEXT" baseAttributes="" />
@@ -1050,7 +1050,7 @@
     </option>
     <option name="HTML_CUSTOM_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
@@ -1061,7 +1061,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1075,7 +1075,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="BCC0CC" />
-        <option name="ERROR_STRIPE_COLOR" value="4F5BC4" />
+        <option name="ERROR_STRIPE_COLOR" value="3F4DBA" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
@@ -1119,7 +1119,7 @@
     </option>
     <option name="JADE_STATEMENTS">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
@@ -1205,7 +1205,7 @@
     </option>
     <option name="JS.FROM_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -1251,7 +1251,7 @@
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LABEL">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="LESS_VARIABLE">
@@ -1287,12 +1287,12 @@
     </option>
     <option name="OC.CPP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="OC.DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="OC.EXTERN_VARIABLE">
@@ -1307,7 +1307,7 @@
     </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="OC.LINE_COMMENT">
@@ -1420,7 +1420,7 @@
     </option>
     <option name="PUPPET_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="PUPPET_NUMBER">
@@ -1521,7 +1521,7 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
@@ -1565,12 +1565,12 @@
     </option>
     <option name="REST.EXPLICIT">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="REST.FIELD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="REST.FIXED">
@@ -1728,7 +1728,7 @@
     </option>
     <option name="RUBY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
@@ -1778,7 +1778,7 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="RUBY_STRING">
@@ -1819,7 +1819,7 @@
     </option>
     <option name="SASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SASS_IMPORTANT">
@@ -1849,7 +1849,7 @@
     </option>
     <option name="SASS_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SASS_URL">
@@ -1869,7 +1869,7 @@
     </option>
     <option name="SLIM_CLASS">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SLIM_COMMENT">
@@ -1880,17 +1880,17 @@
     </option>
     <option name="SLIM_DOCTYPE_KWD">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SLIM_FILTER">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SLIM_ID">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SLIM_INTERPOLATION">
@@ -1910,7 +1910,7 @@
     </option>
     <option name="SLIM_TAG">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="SLIM_TAG_ATTR_KEY">
@@ -1980,9 +1980,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
         <option name="FONT_TYPE" value="3" />
-        <option name="ERROR_STRIPE_COLOR" value="4F5BC4" />
+        <option name="ERROR_STRIPE_COLOR" value="3F4DBA" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -2032,7 +2032,7 @@
     </option>
     <option name="XML_CUSTOM_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -2057,7 +2057,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="4F5BC4" />
+        <option name="FOREGROUND" value="3F4DBA" />
       </value>
     </option>
     <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
